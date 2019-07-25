@@ -1,0 +1,7 @@
+ga('create', {
+  trackingId: 'UA-XXXXX-Y',
+  cookieDomain: 'auto'
+});
+ga('send', {
+  hitType: 'pageview'
+});
